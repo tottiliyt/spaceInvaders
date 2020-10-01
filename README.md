@@ -8,3 +8,8 @@ with the following behavior:
 - The invaders (enemy's spaceships) should appear randomly along the top of the screen and move down on a straight vertical trajectory.
 - When a missile hits an invader, it destroys it.
 - When an invader reaches the bottom of the screen, the game is over.
+
+Here is a demo of the game
+
+
+<img src="https://github.com/tottiliyt/spaceInvaders/blob/master/demo.gif" width="350" height="450">
